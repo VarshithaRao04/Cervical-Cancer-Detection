@@ -1,6 +1,4 @@
-Cervical Cancer Classification using Deep Learning
-Project Overview
-
+CERVICAL CANCER CLASSIFICATION USING DEEP LEARNING
 This project focuses on detecting and classifying cervical cancer using deep learning techniques.
 A trained model (NASNetMobile) is used to predict cancer classes from medical images.
 
