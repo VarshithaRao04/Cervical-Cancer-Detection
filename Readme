@@ -1,0 +1,32 @@
+Cervical Cancer Classification using Deep Learning
+Project Overview
+
+This project focuses on detecting and classifying cervical cancer using deep learning techniques.
+A trained model (NASNetMobile) is used to predict cancer classes from medical images.
+
+PROJECT STRUCTURE
+MPDL03/
+│
+├── Code/
+│   ├── app.py
+│   ├── static/
+│   ├── templates/
+│   ├── test/
+│   └── Untitled.ipynb
+│
+├── Documents/
+│   ├── MPDL03.docx
+│   └── MPDL03_Final.docx
+│
+├── NASNetMobile_cancer.h5   # Trained model
+├── Enhancing_Cervical_Cancer_Classification.pdf
+
+DATASET
+The dataset is too large to upload to GitHub.
+
+Download it from here:
+https://drive.google.com/drive/folders/1uynE_u9-ANDi4sgoxE_0I5ZsUzzNyFco?usp=sharing
+
+
+
+
